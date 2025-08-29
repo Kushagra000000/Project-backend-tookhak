@@ -1,0 +1,449 @@
+{
+  "users": [
+    {
+      "userId": 0,
+      "email": "new@bar.com",
+      "nameFirst": "new",
+      "nameLast": " foo",
+      "password": "d97086919b6522e13ba9b46c04902c38372102218a4b3ef2f45ac2a80e9fd240",
+      "numSuccessfulLogins": 1,
+      "numFailedPasswordsSinceLastLogin": 0,
+      "previousPasswords": []
+    }
+  ],
+  "quizzes": [
+    {
+      "userId": 0,
+      "contributors": [],
+      "quizId": 1745996535237,
+      "name": "is CS fun",
+      "description": "I don't think so",
+      "timeCreated": 1745996534,
+      "timeLastEdited": 1745996575,
+      "numQuestions": 3,
+      "questions": [
+        {
+          "questionId": 1745996537835513,
+          "question": "Default question",
+          "timeLimit": 10,
+          "points": 5,
+          "answerOptions": [
+            {
+              "answerId": 0,
+              "answer": "sdfsdf 1",
+              "colour": "blue",
+              "correct": true
+            },
+            {
+              "answerId": 1,
+              "answer": "Example 2",
+              "colour": "orange",
+              "correct": false
+            }
+          ],
+          "thumbnailUrl": "https://www.unsw.edu.au/content/dam/images/photos/events/open-day/2020-12-homepage-update/OpenDay_2019_campaign%20-0307-crop.cropimg.width=1920.crop=square.jpg"
+        },
+        {
+          "questionId": 1745996541831693,
+          "question": "Default question",
+          "timeLimit": 10,
+          "points": 5,
+          "answerOptions": [
+            {
+              "answerId": 0,
+              "answer": "Example 1",
+              "colour": "yellow",
+              "correct": true
+            },
+            {
+              "answerId": 1,
+              "answer": "Example 2",
+              "colour": "red",
+              "correct": false
+            }
+          ],
+          "thumbnailUrl": "https://www.unsw.edu.au/content/dam/images/photos/events/open-day/2020-12-homepage-update/OpenDay_2019_campaign%20-0307-crop.cropimg.width=1920.crop=square.jpg"
+        },
+        {
+          "questionId": 1745996570634231,
+          "question": "Default question",
+          "timeLimit": 10,
+          "points": 5,
+          "answerOptions": [
+            {
+              "answerId": 0,
+              "answer": "Example 1",
+              "colour": "purple",
+              "correct": true
+            },
+            {
+              "answerId": 1,
+              "answer": "Example 2",
+              "colour": "purple",
+              "correct": false
+            }
+          ],
+          "thumbnailUrl": "https://www.unsw.edu.au/content/dam/images/photos/events/open-day/2020-12-homepage-update/OpenDay_2019_campaign%20-0307-crop.cropimg.width=1920.crop=square.jpg"
+        }
+      ],
+      "timeLimit": 30,
+      "thumbnailUrl": ""
+    }
+  ],
+  "sessions": [],
+  "quizGames": [
+    {
+      "quiz": {
+        "userId": 0,
+        "contributors": [],
+        "quizId": 1745996535237,
+        "name": "is CS fun",
+        "description": "I don't think so",
+        "timeCreated": 1745996534,
+        "timeLastEdited": 1745996575,
+        "numQuestions": 3,
+        "questions": [
+          {
+            "questionId": 1745996537835513,
+            "question": "Default question",
+            "timeLimit": 10,
+            "points": 5,
+            "answerOptions": [
+              {
+                "answerId": 0,
+                "answer": "sdfsdf 1",
+                "colour": "blue",
+                "correct": true
+              },
+              {
+                "answerId": 1,
+                "answer": "Example 2",
+                "colour": "orange",
+                "correct": false
+              }
+            ],
+            "thumbnailUrl": "https://www.unsw.edu.au/content/dam/images/photos/events/open-day/2020-12-homepage-update/OpenDay_2019_campaign%20-0307-crop.cropimg.width=1920.crop=square.jpg"
+          },
+          {
+            "questionId": 1745996541831693,
+            "question": "Default question",
+            "timeLimit": 10,
+            "points": 5,
+            "answerOptions": [
+              {
+                "answerId": 0,
+                "answer": "Example 1",
+                "colour": "yellow",
+                "correct": true
+              },
+              {
+                "answerId": 1,
+                "answer": "Example 2",
+                "colour": "red",
+                "correct": false
+              }
+            ],
+            "thumbnailUrl": "https://www.unsw.edu.au/content/dam/images/photos/events/open-day/2020-12-homepage-update/OpenDay_2019_campaign%20-0307-crop.cropimg.width=1920.crop=square.jpg"
+          },
+          {
+            "questionId": 1745996570634231,
+            "question": "Default question",
+            "timeLimit": 10,
+            "points": 5,
+            "answerOptions": [
+              {
+                "answerId": 0,
+                "answer": "Example 1",
+                "colour": "purple",
+                "correct": true
+              },
+              {
+                "answerId": 1,
+                "answer": "Example 2",
+                "colour": "purple",
+                "correct": false
+              }
+            ],
+            "thumbnailUrl": "https://www.unsw.edu.au/content/dam/images/photos/events/open-day/2020-12-homepage-update/OpenDay_2019_campaign%20-0307-crop.cropimg.width=1920.crop=square.jpg"
+          }
+        ],
+        "timeLimit": 30,
+        "thumbnailUrl": ""
+      },
+      "gameId": 0,
+      "state": "LOBBY",
+      "scoreBoard": [],
+      "autoStartNum": 10,
+      "active": true,
+      "atQuestion": 0,
+      "questionStartTime": null,
+      "questionResults": [
+        {
+          "questionId": 1745996537835513,
+          "playersCorrect": [],
+          "averageAnswerTime": 0,
+          "percentCorrect": 0
+        },
+        {
+          "questionId": 1745996541831693,
+          "playersCorrect": [],
+          "averageAnswerTime": 0,
+          "percentCorrect": 0
+        },
+        {
+          "questionId": 1745996570634231,
+          "playersCorrect": [],
+          "averageAnswerTime": 0,
+          "percentCorrect": 0
+        }
+      ]
+    },
+    {
+      "quiz": {
+        "userId": 0,
+        "contributors": [],
+        "quizId": 1745996535237,
+        "name": "is CS fun",
+        "description": "I don't think so",
+        "timeCreated": 1745996534,
+        "timeLastEdited": 1745996575,
+        "numQuestions": 3,
+        "questions": [
+          {
+            "questionId": 1745996537835513,
+            "question": "Default question",
+            "timeLimit": 10,
+            "points": 5,
+            "answerOptions": [
+              {
+                "answerId": 0,
+                "answer": "sdfsdf 1",
+                "colour": "blue",
+                "correct": true
+              },
+              {
+                "answerId": 1,
+                "answer": "Example 2",
+                "colour": "orange",
+                "correct": false
+              }
+            ],
+            "thumbnailUrl": "https://www.unsw.edu.au/content/dam/images/photos/events/open-day/2020-12-homepage-update/OpenDay_2019_campaign%20-0307-crop.cropimg.width=1920.crop=square.jpg"
+          },
+          {
+            "questionId": 1745996541831693,
+            "question": "Default question",
+            "timeLimit": 10,
+            "points": 5,
+            "answerOptions": [
+              {
+                "answerId": 0,
+                "answer": "Example 1",
+                "colour": "yellow",
+                "correct": true
+              },
+              {
+                "answerId": 1,
+                "answer": "Example 2",
+                "colour": "red",
+                "correct": false
+              }
+            ],
+            "thumbnailUrl": "https://www.unsw.edu.au/content/dam/images/photos/events/open-day/2020-12-homepage-update/OpenDay_2019_campaign%20-0307-crop.cropimg.width=1920.crop=square.jpg"
+          },
+          {
+            "questionId": 1745996570634231,
+            "question": "Default question",
+            "timeLimit": 10,
+            "points": 5,
+            "answerOptions": [
+              {
+                "answerId": 0,
+                "answer": "Example 1",
+                "colour": "purple",
+                "correct": true
+              },
+              {
+                "answerId": 1,
+                "answer": "Example 2",
+                "colour": "purple",
+                "correct": false
+              }
+            ],
+            "thumbnailUrl": "https://www.unsw.edu.au/content/dam/images/photos/events/open-day/2020-12-homepage-update/OpenDay_2019_campaign%20-0307-crop.cropimg.width=1920.crop=square.jpg"
+          }
+        ],
+        "timeLimit": 30,
+        "thumbnailUrl": ""
+      },
+      "gameId": 1,
+      "state": "END",
+      "scoreBoard": [],
+      "autoStartNum": 0,
+      "active": false,
+      "atQuestion": 0,
+      "questionStartTime": null,
+      "questionResults": [
+        {
+          "questionId": 1745996537835513,
+          "playersCorrect": [],
+          "averageAnswerTime": 0,
+          "percentCorrect": 0
+        },
+        {
+          "questionId": 1745996541831693,
+          "playersCorrect": [],
+          "averageAnswerTime": 0,
+          "percentCorrect": 0
+        },
+        {
+          "questionId": 1745996570634231,
+          "playersCorrect": [],
+          "averageAnswerTime": 0,
+          "percentCorrect": 0
+        }
+      ]
+    },
+    {
+      "quiz": {
+        "userId": 0,
+        "contributors": [],
+        "quizId": 1745996535237,
+        "name": "is CS fun",
+        "description": "I don't think so",
+        "timeCreated": 1745996534,
+        "timeLastEdited": 1745996575,
+        "numQuestions": 3,
+        "questions": [
+          {
+            "questionId": 1745996537835513,
+            "question": "Default question",
+            "timeLimit": 10,
+            "points": 5,
+            "answerOptions": [
+              {
+                "answerId": 0,
+                "answer": "sdfsdf 1",
+                "colour": "blue",
+                "correct": true
+              },
+              {
+                "answerId": 1,
+                "answer": "Example 2",
+                "colour": "orange",
+                "correct": false
+              }
+            ],
+            "thumbnailUrl": "https://www.unsw.edu.au/content/dam/images/photos/events/open-day/2020-12-homepage-update/OpenDay_2019_campaign%20-0307-crop.cropimg.width=1920.crop=square.jpg"
+          },
+          {
+            "questionId": 1745996541831693,
+            "question": "Default question",
+            "timeLimit": 10,
+            "points": 5,
+            "answerOptions": [
+              {
+                "answerId": 0,
+                "answer": "Example 1",
+                "colour": "yellow",
+                "correct": true
+              },
+              {
+                "answerId": 1,
+                "answer": "Example 2",
+                "colour": "red",
+                "correct": false
+              }
+            ],
+            "thumbnailUrl": "https://www.unsw.edu.au/content/dam/images/photos/events/open-day/2020-12-homepage-update/OpenDay_2019_campaign%20-0307-crop.cropimg.width=1920.crop=square.jpg"
+          },
+          {
+            "questionId": 1745996570634231,
+            "question": "Default question",
+            "timeLimit": 10,
+            "points": 5,
+            "answerOptions": [
+              {
+                "answerId": 0,
+                "answer": "Example 1",
+                "colour": "purple",
+                "correct": true
+              },
+              {
+                "answerId": 1,
+                "answer": "Example 2",
+                "colour": "purple",
+                "correct": false
+              }
+            ],
+            "thumbnailUrl": "https://www.unsw.edu.au/content/dam/images/photos/events/open-day/2020-12-homepage-update/OpenDay_2019_campaign%20-0307-crop.cropimg.width=1920.crop=square.jpg"
+          }
+        ],
+        "timeLimit": 30,
+        "thumbnailUrl": ""
+      },
+      "gameId": 2,
+      "state": "FINAL_RESULTS",
+      "scoreBoard": [
+        {
+          "playerName": "pro",
+          "score": 15,
+          "answerTime": 2,
+          "correct": true,
+          "attempted": true
+        },
+        {
+          "playerName": "qeczg514",
+          "score": 0,
+          "answerTime": 8,
+          "correct": false,
+          "attempted": true
+        }
+      ],
+      "autoStartNum": 2,
+      "active": true,
+      "atQuestion": 0,
+      "questionStartTime": 1745996706,
+      "questionResults": [
+        {
+          "questionId": 1745996537835513,
+          "playersCorrect": [
+            "pro"
+          ],
+          "averageAnswerTime": 4,
+          "percentCorrect": 50
+        },
+        {
+          "questionId": 1745996541831693,
+          "playersCorrect": [
+            "pro"
+          ],
+          "averageAnswerTime": 3,
+          "percentCorrect": 50
+        },
+        {
+          "questionId": 1745996570634231,
+          "playersCorrect": [
+            "pro"
+          ],
+          "averageAnswerTime": 5,
+          "percentCorrect": 50
+        }
+      ]
+    }
+  ],
+  "players": [
+    {
+      "playerId": 1745996599159553,
+      "gameId": 2,
+      "name": "pro",
+      "score": 0
+    },
+    {
+      "playerId": 1745996626908214,
+      "gameId": 2,
+      "name": "qeczg514",
+      "score": 0
+    }
+  ]
+}
