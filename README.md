@@ -1,3 +1,9 @@
+
+Below is the comp1531 course project! 
+This readme contains description about the project creation.
+
+
+
 # COMP1531 Major Project
 
 **✨ 🥜 Toohak 🥜 ✨**
